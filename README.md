@@ -1,3 +1,5 @@
-### Learning Writing Javascript unit tests
+### How to write Unit Test in Javascript
 
-learning how to write unit test with javascript by following Tuts+ course [JavaScript Unit Testing with Mocha, Chai and Sinon](http://code.tutsplus.com/courses/javascript-unit-testing-with-mocha-chai-and-sinon) 
+Follow courses and articles for Javascript Unit Testing To learn How to write unit tests in Javascript language.
+
+**Notice:** every course's/article's code will separated into Folder Named by course's/article's name.    
